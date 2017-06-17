@@ -1,0 +1,4 @@
+static/* linguist-vendored
+* linguist-vendored
+*.pbix linguist-vendored=false
+*.pbix linguist-language=PowerBI
